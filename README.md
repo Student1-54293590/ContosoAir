@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/AppInnovation-54293590/PartsUnlimited/_apis/build/status%2Fpipelines-dotnet-core?branchName=master)](https://dev.azure.com/AppInnovation-54293590/PartsUnlimited/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
